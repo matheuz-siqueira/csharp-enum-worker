@@ -1,0 +1,15 @@
+/home/matheus/Projetos/csharp-enum-worker/bin/Debug/net7.0/csharp-enum-worker
+/home/matheus/Projetos/csharp-enum-worker/bin/Debug/net7.0/csharp-enum-worker.deps.json
+/home/matheus/Projetos/csharp-enum-worker/bin/Debug/net7.0/csharp-enum-worker.runtimeconfig.json
+/home/matheus/Projetos/csharp-enum-worker/bin/Debug/net7.0/csharp-enum-worker.dll
+/home/matheus/Projetos/csharp-enum-worker/bin/Debug/net7.0/csharp-enum-worker.pdb
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.csproj.AssemblyReference.cache
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.AssemblyInfoInputs.cache
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.AssemblyInfo.cs
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.dll
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/refint/csharp-enum-worker.dll
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.pdb
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/csharp-enum-worker.genruntimeconfig.cache
+/home/matheus/Projetos/csharp-enum-worker/obj/Debug/net7.0/ref/csharp-enum-worker.dll
